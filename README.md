@@ -27,7 +27,7 @@
 
 ### Bowling Score Card
 - Made a scorecard for Ten Pin Bowling
-- https://github.com/camybish/bowling-challenge-ruby
+- https://github.com/camybish/bowling-challenge/
 
 
 ### Silk Road Text Adventure
