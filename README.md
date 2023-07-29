@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on finding a career in London (UK) as a graduate/junior developer (as well as slowly working on a Yahtzee web app game using Ruby)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, alongside OpenGL
 - 📫 How to reach me: https://www.linkedin.com/in/cameron-bishop-972145153/
 - 👔 What else I've worked on: https://github.com/camybish/CV
 - 😄 Pronouns: he/they
